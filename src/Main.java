@@ -1,7 +1,6 @@
 import java.util.List;
 
-import parser.Lexer;
-import parser.Token;
+import parser.*;
 
 public final class Main {
     public static void main(String[] args) {
